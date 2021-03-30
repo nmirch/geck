@@ -1,3 +1,3 @@
-module.exports = {
-  publicPath: 'fonline-geck'
-}
+// module.exports = {
+//   publicPath: 'fonline-geck'
+// }

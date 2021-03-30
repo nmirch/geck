@@ -4,7 +4,7 @@ module.exports = {
   plugins: [
     new CopyPlugin({
       patterns: [
-        { from: "./public", to: "./src/" },
+        { from: "./public", to: "./" },
       ],
     }),
   ],
